@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+}
+
+/* Primera Parte Video */
+/* .container{
+    background-color: lightgray;
+    width: 900px;
+    height: 600px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center; */
+    /* justify-content: center; */
+/* } */
+
+/* .col,.col-2{
+    background-color: blanchedalmond;
+    padding: 10px;
+    font-size: 1.2rem; */
+    /* Given one portion of the box */
+    /* flex: 1; */
+    /* flex-grow: calc(3/5); */
+    /* flex-shrink: calc(4/7); */
+    /* flex-direction: column-reverse; */
+    /* flex-flow: row; */
+/* } */
+
+/* .col-2{ */
+    /* Give the 3 part of the box */
+    /* flex:2 */
+    
+/* } */

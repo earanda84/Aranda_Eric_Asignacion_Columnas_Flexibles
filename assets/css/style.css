@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+}
+
+.row {
+    padding: 20px;
+    display: flex;
+}
+
+.col,
+.col-2,
+.col-3 {
+    padding: 20px;
+    align-items: center;
+    flex: 1;
+    margin: 0 10px;
+    background-color: rgb(71, 205, 147);
+}
+
+.col-2 {
+    flex: 2
+}
+
+.col-3 {
+    flex: 3;
+}
